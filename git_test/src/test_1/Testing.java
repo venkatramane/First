@@ -7,6 +7,8 @@ public class Testing {
 
 		
 		System.out.println("safdsfc");
+		
+		System.out.println("Second test of push");
 	}
 
 }
